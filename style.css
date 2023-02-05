@@ -1,0 +1,20 @@
+.tblCalc{
+    border:2px solid grey;
+    margin:0;
+    padding:0;
+    width:400px;
+    text-align:center;
+    background: rgba(255, 255, 255, 0.51);
+
+}
+.tblCalc input{
+    border:1px solid gray;
+    width:50px;
+    margin:7px;
+}
+#btnWide{
+    width:100px;
+}
+#editWide{
+    width:250px;
+}
